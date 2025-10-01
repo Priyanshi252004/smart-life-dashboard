@@ -1,0 +1,29 @@
+/* General Page Styling */
+body {
+    font-family: 'Arial', sans-serif;
+     background-color: hsla(0, 0%, 100%, 0.021) !important;
+}
+
+/* Sidebar Styling */
+.stSidebar {
+    background-color: hsla(0, 0%, 100%, 0.021) !important;
+    padding: 20px;
+}
+
+/* Title Styling */
+h1, h2, h3 {
+    color: #1f77b4;
+}
+
+/* Data Table Styling */
+.css-1d391kg {
+    background-color: hsla(0, 0%, 100%, 0.021) !important;
+}
+
+/* Chart Styling */
+.stChart {
+    padding: 10px;
+    background-color: hsla(0, 0%, 100%, 0.021);
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
